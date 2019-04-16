@@ -1,6 +1,8 @@
 # 2018-Geek-Cave-Game-Jam
 Game Title：《小時候不讀書，長大當測速照相機》</br>
 
+![image](https://github.com/feathergamedev/2018-Geek-Cave-Game-Jam/blob/master/2018GCGJ_ScreenShot.png)
+
 This game is made for 2018 Geek Cave Game Jam( 2018.11.10 ~ 2018.11.11 ) in Taiwan.</br>
 </br>
 Group Members:</br>
